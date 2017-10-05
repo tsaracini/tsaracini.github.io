@@ -1,3 +1,3 @@
-## VR projects
+## VR Projects
 
 
