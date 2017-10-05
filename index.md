@@ -1,3 +1,3 @@
-## TechStart Portfolio
+## VR projects
 
-Demo site for VR projects.
+
