@@ -1,5 +1,7 @@
 ## VR Projects
 
 ###360
-<script src='//beta.vizor.io:443/static/scripts/vizor-360-embed.js' data-vizorurl='//beta.vizor.io:443/embed/tsaracini/arkansas-state-capitol-building'></script>
-This was the first VR photo taken with the Ricoh Theta S camera.
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/grdk2" ></script>
+
+This was the first 360 picture I took with the Ricoh Theta S camera.
